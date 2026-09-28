@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=CPU Stress Test
+Comment=CPU yük testini başlat ve durdur
+Exec=/usr/bin/python3 /home/anon/Masaüstü/cpustresstest/cpu_stress_test.py
+Icon=utilities-system-monitor
+Terminal=false
+Categories=System;Monitor;
+StartupNotify=true
